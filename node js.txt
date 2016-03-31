@@ -1,0 +1,17 @@
+npm install nodemon - checks for changes to server code and automatically restarts the server so changes are applied
+npm install ws
+npm init //create a json.package file
+npm install express --save //Install Express in the app directory and save it in the dependencies list:
+npm install express //To install Express temporarily, and not add it to the dependencies list
+npm install ejs -g //create a new node_modules
+"-g" //global access
+
+npm install node-inspector //install debugger
+node-inspector //run it
+node --debug-brk app.js //run app.js with debugger
+npm install body-parser //module to parse the body
+
+index.html - connecting client to server (ww.html)
+ww.js - gamelogic
+
+need a server.js file 
